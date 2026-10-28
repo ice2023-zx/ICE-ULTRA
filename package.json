@@ -1,0 +1,12 @@
+{
+  "name": "ice-x",
+  "version": "3.0.0",
+  "description": "ICE-X WhatsApp bot",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "pino": "^9.5.0"
+  }
+}
